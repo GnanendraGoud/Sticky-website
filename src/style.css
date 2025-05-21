@@ -1,0 +1,12 @@
+
+/* Custom sticky header behavior */
+#header.shrink {
+  padding: 0.5rem 1rem !important;
+  background-color: #2563eb; /* Tailwind's blue-600 */
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+#header.shrink a {
+  color: white !important;
+}
